@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alice01",
+      "description": "Admin of the platform",
+      "address": "123 Main St, New York, USA"
+    },
+    {
+      "id": 2,
+      "username": "bob_king",
+      "description": "Content editor and writer",
+      "address": "45 Queen St, London, UK"
+    },
+    {
+      "id": 3,
+      "username": "charlie_dev",
+      "description": "Frontend developer",
+      "address": "78 Tech Park, San Francisco, USA"
+    },
+    {
+      "id": 4,
+      "username": "diana_design",
+      "description": "Graphic and UI/UX designer",
+      "address": "90 Art Lane, Berlin, Germany"
+    },
+    {
+      "id": 5,
+      "username": "ethan_travel",
+      "description": "Travel blogger and photographer",
+      "address": "56 Beach Rd, Sydney, Australia"
+    }
+  ]
+}
